@@ -22,6 +22,7 @@
 <div id="main">
 
   <a href="lista.php">Povratak na listu sudija</a>
+  <p><a href="pretraga.php">Povratak na stranu pretrage</a></p>
 
   <div id="page">
 

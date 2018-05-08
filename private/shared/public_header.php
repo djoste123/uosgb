@@ -16,7 +16,6 @@
   </head>
 
   <body>
-
     <header>
       <h1>
         <a href="<?php echo url_for('/index.php'); ?>">
